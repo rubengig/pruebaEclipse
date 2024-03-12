@@ -14,6 +14,7 @@ abstract class Figura {
     
     //comentario.
     //comentario 2 lmao
+	//Comentario desde github
     
     public Figura(int x1, int y1, int x2, int y2, Color color){
         this.x1=x1;
